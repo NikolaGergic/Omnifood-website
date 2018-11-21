@@ -67,7 +67,7 @@ $(document).ready(function() {
 		offset: '50%'
 	});
 
-
+	
 
 
 
